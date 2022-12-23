@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pdf Kotlin</string>
+    <string name="signature">Signature</string>
+    <string name="click_here_to_sign">Click here to sign</string>
+    <string name="proceed">Proceed</string>
+    <string name="signature_sub_head">Draw your signature in the box below.</string>
+</resources>
