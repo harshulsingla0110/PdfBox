@@ -11,9 +11,11 @@ making it a one-stop solution for all your PDF filling and signing needs.
 - Compatibility with most PDF documents.
 
 ### Screenshots
-<p float="left">
+<p align="center">
   <img src="https://i.ibb.co/VYJJT1d/Screenshot-20230216-153108.jpg" width="240" />
   <img src="https://i.ibb.co/fNrLS74/Screenshot-20230216-153304.jpg" width="240" /> 
+</p>
+<p align="center">
   <img src="https://i.ibb.co/D8BBmnF/Screenshot-20230216-153321.jpg" width="240" /> 
   <img src="https://i.ibb.co/1zhRr9B/Screenshot-20230216-153327.jpg" width="240" />
 </p>
